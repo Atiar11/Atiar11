@@ -1,28 +1,34 @@
 <div align="center">
 
-<!-- Celestial Starry Night Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=090D16,111827,1E1B4B,312E81,090D16&height=225&section=header&text=✦%20Atiar%20Osman%20✦&fontSize=42&fontAlignY=38&desc=AI%20Software%20Engineer%20•%20Multi-Agent%20Systems%20•%20NLP%20Researcher&descAlignY=62&descSize=18&fontColor=FDE047" width="100%" alt="Starry Night Header Banner" />
-
-<!-- Dynamic Starry Typewriter -->
+<!-- Authentic Van Gogh Starry Night Masterpiece Header -->
 <a href="https://github.com/Atiar11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FDE047&center=true&vCenter=true&multiline=true&width=820&height=85&lines=🌌+Production+AI+Agent+Architect+(LangChain+%2B+DSPy);✨+RAG+Pipeline+%26+Vector+Database+Engineer;🔭+NLP+Researcher+•+Dialectal+Phonetics+%26+Transformers;🪐+Autonomous+Multi-Agent+RL+%26+Drone+Swarm+Explorer;🚀+Full-Stack+FastAPI+%26+MERN+Software+Engineer" alt="Cosmic Typing Subtitle" />
+  <img src="https://raw.githubusercontent.com/Atiar11/Atiar11/main/assets/starry_night_banner.jpg" width="100%" alt="Atiar Osman - Starry Night Banner" style="border-radius: 10px;" />
 </a>
 
+<br/><br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atiar11&label=✦+Cosmic+Voyagers&color=1e1b4b&style=flat-square" alt="Profile Views" />
+  <b>🌌 AI Software Engineer</b> &nbsp;•&nbsp; 
+  <b>✨ Multi-Agent Systems & RAG</b> &nbsp;•&nbsp; 
+  <b>🔭 NLP & Dialectal Phonetics</b> &nbsp;•&nbsp; 
+  <b>🪐 Autonomous Swarm RL</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atiar11&label=✦+Cosmic+Voyagers&color=0A1128&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.Sc.%20in%20Computer%20Science%20(BRACU)-0F172A?style=flat-square&logo=academia&logoColor=FDE047" alt="BRAC University" />
+  <img src="https://img.shields.io/badge/Alma_Mater-BRAC_University_B.Sc._CS-001F54?style=flat-square&logo=academia&logoColor=FDE047" alt="BRAC University" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Architecting%20Agentic%20AI-7C3AED?style=flat-square&logo=probot&logoColor=38BDF8" alt="Status" />
+  <img src="https://img.shields.io/badge/Mission-Production_Agentic_AI-034078?style=flat-square&logo=probot&logoColor=38BDF8" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Cert-AI%2B%20Prompt%20Engineer%20L1-312E81?style=flat-square&logo=checkmarx&logoColor=FDE047" alt="AI Cert" />
+  <img src="https://img.shields.io/badge/Cert-AI%2B_Prompt_Engineer_L1-1282A2?style=flat-square&logo=checkmarx&logoColor=FDE047" alt="AI Cert" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"For my part I know nothing with any certainty, but the sight of the stars makes me dream."</i><br/>
-  <b>— Vincent van Gogh, The Starry Night</b>
+  <i>"I often think that the night is more alive and more richly colored than the day."</i><br/>
+  <b>— Vincent van Gogh, <i>The Starry Night</i> (1889)</b>
 </p>
 
 </div>
