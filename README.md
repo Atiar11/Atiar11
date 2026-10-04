@@ -4,19 +4,13 @@
 ### 🌌 Software Engineer &nbsp;•&nbsp; ✨ Multi-Agent Systems & RAG &nbsp;•&nbsp; 🔭 NLP Researcher
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atiar11&label=✦+Cosmic+Voyagers&color=0A1128&style=flat-square" alt="Profile Views" />
-  &nbsp;
+
   <img src="https://img.shields.io/badge/Alma_Mater-BRAC_University_B.Sc._CS-001F54?style=flat-square&logo=academia&logoColor=FDE047" alt="BRAC University" />
   &nbsp;
   <img src="https://img.shields.io/badge/Mission-Production_Agentic_AI-034078?style=flat-square&logo=probot&logoColor=38BDF8" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Cert-AI%2B_Prompt_Engineer_L1-1282A2?style=flat-square&logo=checkmarx&logoColor=FDE047" alt="AI Cert" />
 </p>
 
-<p align="center">
-  <i>"I often think that the night is more alive and more richly colored than the day."</i><br/>
-  <b>— Vincent van Gogh, <i>The Starry Night</i></b>
-</p>
 
 ---
 
@@ -101,7 +95,7 @@ My work orbits around **Generative AI**, **Production Multi-Agent Systems**, **N
 
 ---
 
-### 📚 Starlight Papers • Research & Publications
+### 📚 Research & Publications
 
 <table>
   <tr>
@@ -123,7 +117,7 @@ My work orbits around **Generative AI**, **Production Multi-Agent Systems**, **N
 
 ---
 
-### 🌟 The Observatory • Key Projects
+### 🌟 Key Projects
 
 <table align="center" width="100%">
   <tr>
@@ -190,7 +184,7 @@ My work orbits around **Generative AI**, **Production Multi-Agent Systems**, **N
 
 ---
 
-### 🌌 Celestial Telemetry & GitHub Stats
+### 🌌 GitHub Stats
 
 <div align="center">
   <table border="0" style="border: none;">
@@ -213,7 +207,7 @@ My work orbits around **Generative AI**, **Production Multi-Agent Systems**, **N
 
 ---
 
-### 📡 Celestial Beacons • Connect With Me
+### 📡 Connect With Me
 
 <div align="center">
   <p>Looking to collaborate on agentic AI workflows, NLP research, or production software systems? Reach out!</p>
