@@ -1,18 +1,7 @@
 <div align="center">
 
-<!-- Authentic Van Gogh Starry Night Masterpiece Header -->
-<a href="https://github.com/Atiar11">
-  <img src="https://raw.githubusercontent.com/Atiar11/Atiar11/main/assets/starry_night_banner.jpg" width="100%" alt="Atiar Osman - Starry Night Banner" style="border-radius: 10px;" />
-</a>
-
-<br/><br/>
-
-<p align="center">
-  <b>🌌 AI Software Engineer</b> &nbsp;•&nbsp; 
-  <b>✨ Multi-Agent Systems & RAG</b> &nbsp;•&nbsp; 
-  <b>🔭 NLP & Dialectal Phonetics</b> &nbsp;•&nbsp; 
-  <b>🪐 Autonomous Swarm RL</b>
-</p>
+# ✦ Atiar Osman ✦
+### 🌌 AI Software Engineer &nbsp;•&nbsp; ✨ Multi-Agent Systems & RAG &nbsp;•&nbsp; 🔭 NLP Researcher
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Atiar11&label=✦+Cosmic+Voyagers&color=0A1128&style=flat-square" alt="Profile Views" />
@@ -24,12 +13,12 @@
   <img src="https://img.shields.io/badge/Cert-AI%2B_Prompt_Engineer_L1-1282A2?style=flat-square&logo=checkmarx&logoColor=FDE047" alt="AI Cert" />
 </p>
 
----
-
 <p align="center">
   <i>"I often think that the night is more alive and more richly colored than the day."</i><br/>
-  <b>— Vincent van Gogh, <i>The Starry Night</i> (1889)</b>
+  <b>— Vincent van Gogh, <i>The Starry Night</i></b>
 </p>
+
+---
 
 </div>
 
@@ -248,9 +237,7 @@ My work orbits around **Generative AI**, **Production Multi-Agent Systems**, **N
 
 <br/>
 
-<!-- Footer Cosmic Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=090D16,1E1B4B,111827,090D16&height=120&section=footer" width="100%" alt="Footer Wave" />
   <p align="center">
     <sub>✧ Constantly learning • Designing with intention • Navigating the unknown ✧</sub>
   </p>
