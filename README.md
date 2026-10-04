@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Atiar Osman
-### 🌌 Software Engineer &nbsp;•&nbsp; ✨ Multi-Agent Systems & RAG &nbsp;•&nbsp; 🔭 NLP Researcher
+### 🌌 Software Engineer &nbsp;•&nbsp; ✨ Multi-Agent Systems & RAG &nbsp;•&nbsp; 🔭 Researcher
 
 <p align="center">
 
