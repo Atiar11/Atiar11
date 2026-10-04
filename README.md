@@ -1,7 +1,7 @@
 <div align="center">
 
-# ✦ Atiar Osman ✦
-### 🌌 AI Software Engineer &nbsp;•&nbsp; ✨ Multi-Agent Systems & RAG &nbsp;•&nbsp; 🔭 NLP Researcher
+# Hi 👋, I'm Atiar Osman
+### 🌌 Software Engineer &nbsp;•&nbsp; ✨ Multi-Agent Systems & RAG &nbsp;•&nbsp; 🔭 NLP Researcher
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Atiar11&label=✦+Cosmic+Voyagers&color=0A1128&style=flat-square" alt="Profile Views" />
