@@ -24,14 +24,14 @@
 
 <br/>
 
-### 🪐 The Celestial Logbook • Biography
+### 🪐• About Me
 
-Welcome to my corner of the universe! I am **Atiar Osman**, a Computer Science graduate from **BRAC University** and AI Software Engineer passionate about translating cutting-edge machine learning and agentic frameworks into robust, scalable production systems.
+Welcome to my corner of the universe! I am **Atiar Osman**, a Computer Science graduate from **BRAC University** and a Software Engineer passionate about translating cutting-edge machine learning and agentic frameworks into robust, scalable production systems.
 
 My work orbits around **Generative AI**, **Production Multi-Agent Systems**, **NLP Research**, and **Autonomous Swarm Intelligence**:
 
-- 🤖 **Production AI & Agents**: Designed production-grade multi-agent reasoning workflows and optimized RAG pipelines using **LangChain**, **DSPy**, **LlamaIndex**, and Vector DBs at **Betopia Limited**.
-- 📚 **Scientific Research**: RA at **BRAC University** researching dialect-aware phonetics, transformer G2P architectures, Bengali NLP corpus generation, and multi-agent reinforcement learning for autonomous drone swarms.
+- 🤖 **Production AI & Agents**: Designed production-grade multi-agent reasoning workflows and optimized RAG pipelines using **LangChain**, **DSPy**, **LlamaIndex**, and Vector DBs.
+- 📚 **Scientific Research**: Researcher at **BRAC University** researching dialect-aware phonetics, transformer G2P architectures, Bengali NLP corpus generation, and multi-agent reinforcement learning for autonomous drone swarms.
 - 🎓 **Undergraduate Thesis**: *Fire Brigade Response Enhancement Using Drone Swarms: Comparative Analysis and Beyond* — bridging entropy-regularized Deep RL with artificial potential fields.
 - 🌐 **Full-Stack & Distributed APIs**: Integrating enterprise AI microservices with relational and vector databases using **FastAPI**, **Django**, and modern **MERN** stacks.
 
